@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 
 [![nowrobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowrobin&show_icons=true&theme=tokyonight)](https://github.com/nowrobin/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/nowrobin/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nowrobini&theme=dark)](https://git.io/streak-stats)
