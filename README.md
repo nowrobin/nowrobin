@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 [![nowrobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowrobin&show_icons=true&theme=tokyonight)](https://github.com/nowrobin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowrobin&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/nowrobin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowrobin&layout=compact&theme=tokyonight)](https://github.com/nowrobin/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nowrobin&theme=tokyonight)](https://git.io/streak-stats)
