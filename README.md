@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowrobin&layout=compact&theme=tokyonight&hide=css,html,php)](https://github.com/nowrobin/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nowrobin&theme=tokyonight)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowrobin&show_icons=true&theme=radical)
