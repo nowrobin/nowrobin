@@ -43,10 +43,3 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
 </div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowrobin&theme=tokyonight&hide=css,html,php,c,Dockerfile)](https://github.com/nowrobin/github-readme-stats)
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowrobin&show_icons=true&theme=bear&hide=stars)
-
-
-
